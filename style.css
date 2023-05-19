@@ -271,19 +271,42 @@ footer {
 
 @media (max-width: 575.98px) {
 
+    h1 {
+        font-size: 40px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .content {
+        font-size: 18px;
+    }
+
     .icon-factory {
-        width: 350px;
+        width: 250px;
+    }
+
+    .list-cards {
+        width: 95%;
     }
 
     .card {
         width: 550px;
     }
+
+    .title-contacts, .info-contacts {
+        font-size: 25px;
+    }
+
+    .nav-footer {
+        width: 100%;
+    }
+
+    .icon-factory-footer {
+        width: 250px;
+    }
 }
-
-@media (max-width: 319.98px) {
-
-}
-
 
 
 
